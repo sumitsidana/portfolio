@@ -11,7 +11,7 @@ author_profile: true
 <li> Health monitoring on social media over time.<br>
 
 Sumit Sidana, Sihem Amer-Yahia, Marianne Clausel, Majdeddine Rebai, Son T Mai, Massih-Reza Amini.
- <b> Mining and Knowledge Discovery, Volume 35</b> <br>
+ <b> Data Mining and Knowledge Discovery, Volume 35</b> <br>
 
 [<a href="https://sumitsidana.github.io/data/healthMonitoringOnSocialMediaOverTime.pdf">PDF</a>, <a href="https://github.com/sumitsidana/healthMonitoring">Code</a>]
 </li>
