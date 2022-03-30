@@ -58,5 +58,5 @@ Sidana Sumit, Shashwat Mishra, Sihem Amer-Yahia, Marianne Clausel, Massih-Reza A
 <h3>Thesis</h3>
 <ol>
 
-<li> <a href="https://www.univ-grenoble-alpes.fr/">Thesis</a>
+<li> <a href="https://tel.archives-ouvertes.fr/tel-02060436/document">Thesis</a>
 </ol>
