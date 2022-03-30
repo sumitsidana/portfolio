@@ -111,6 +111,9 @@ author:
   Github           : "https://github.com/sumitsidana"
 
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sumit-sidana-ph-d-b5b3aab4/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -133,9 +136,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sumit-sidana-ph-d-b5b3aab4/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/sumitsidana17
+      url: "https://twitter.com/sumitsidana17"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
