@@ -10,14 +10,16 @@ author_profile: true
 <ol>
 <li> Health monitoring on social media over time.<br>
 
-Sumit Sidana, Sihem Amer-Yahia, Marianne Clausel, Majdeddine Rebai, Son T Mai, Massih-Reza Amini 
+Sumit Sidana, Sihem Amer-Yahia, Marianne Clausel, Majdeddine Rebai, Son T Mai, Massih-Reza Amini.
+ <b> Mining and Knowledge Discovery, Volume 35</b> <br>
 
 [<a href="https://sumitsidana.github.io/data/healthMonitoringOnSocialMediaOverTime.pdf">PDF</a>, <a href="https://github.com/sumitsidana/healthMonitoring">Code</a>]
 </li>
 
 <li> User preference and embedding learning with implicit feedback for recommender systems<br>
 
-Sumit Sidana, Mikhail Trofimov, Oleh Horodnytskyi, Charlotte Laclau, Yury Maximov, Massih-Reza Amini
+Sumit Sidana, Mikhail Trofimov, Oleh Horodnytskyi, Charlotte Laclau, Yury Maximov, Massih-Reza Amini.
+ <b>IEEE Transactions on Knowledge and Data Engineering, Volume 30 </b> <br>
 
 [<a href="https://sumitsidana.github.io/data/TOIS.pdf">PDF</a>, <a href="https://github.com/sumitsidana/NERvE">Code</a>]
 </li>
@@ -29,24 +31,24 @@ Sumit Sidana, Mikhail Trofimov, Oleh Horodnytskyi, Charlotte Laclau, Yury Maximo
 <ol>
 <li> KASANDR: a large-scale dataset with implicit feedback for recommendation<br>
 
-Sumit Sidana, Charlotte Laclau, Massih R Amini, Gilles Vandelle, André Bois-Crettez
+Sumit Sidana, Charlotte Laclau, Massih R Amini, Gilles Vandelle, André Bois-Crettez.  <b>SIGIR 2017 </b> <br>
 [<a href="https://sumitsidana.github.io/data/SIGIR17_short.pdf">PDF</a>, <a href="https://github.com/sumitsidana/recsysBaselines">Code</a>]
 </li>
 <li> Learning to recommend diverse items over implicit feedback on PANDOR<br>
 
-Sumit Sidana, Charlotte Laclau, Massih-Reza Amini
+Sumit Sidana, Charlotte Laclau, Massih-Reza Amini. <b>RecSys 2018 </b> <br>
 
 [<a href="https://sumitsidana.github.io/data/SIGIR18.pdf">PDF</a>, <a href="https://github.com/sumitsidana/RecSys-Diversity-PANDOR">Code</a>]
 </li>
 <li> A combination of classification based methods for recommending tweets<br>
 
-Sumit Sidana
+Sumit Sidana. <b> RecSys Challenge 2020 </b> <br>
 
 [<a href="https://sumitsidana.github.io/data/RecSysChallenge2020.pdf">PDF</a>, <a href="https://github.com/sumitsidana/recsys_challenge_2020">Code</a>]
 </li>
 <li> Health Monitoring on Social Media over Time<br>
 
-Sidana Sumit, Shashwat Mishra, Sihem Amer-Yahia, Marianne Clausel, Massih-Reza Amini
+Sidana Sumit, Shashwat Mishra, Sihem Amer-Yahia, Marianne Clausel, Massih-Reza Amini. <b> SIGIR 2016 </b> <br>
 
 [<a href="https://sumitsidana.github.io/data/healthMonitoringOnSocialMediaOverTime.pdf">PDF</a>, <a href="https://github.com/sumitsidana/healthMonitoring">Code</a>]
 </li>
