@@ -5,3 +5,7 @@ main:
     url: /publications/
   - title: "Resume"
     url: /data/Resume.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Work Experience"
+    url: /work_experience/
