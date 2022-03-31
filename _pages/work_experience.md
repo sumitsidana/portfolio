@@ -5,7 +5,7 @@ permalink: /work_experience/
 author_profile: true
 ---
 
-<ul>
+<ol>
 <li><p><span><strong><span class="sans-serif">“Large-scale Recommender Systems and Ranking at JustEat Takeaway.com”</span></strong></span><br />
 <span><em>Senior Data Scientist (2019 - Present)</em></span></p>
 <ul>
@@ -109,4 +109,4 @@ author_profile: true
 <li><p>Obtained familiarity with common language run-time and just-in-time compilation</p></li>
 <li><p>Worked on MySQL on backend</p></li>
 </ul></li>
-</ul>
+</ol>
