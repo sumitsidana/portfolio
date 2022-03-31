@@ -44,7 +44,8 @@ Sumit Sidana, Charlotte Laclau, Massih-Reza Amini. <b>RecSys 2018 </b> <br>
 
 Sumit Sidana. <b> RecSys Challenge 2020 </b> <br>
 
-[<a href="https://sumitsidana.github.io/data/RecSysChallenge2020.pdf">PDF</a>, <a href="https://github.com/sumitsidana/recsys_challenge_2020">Code</a>]
+[<a href="https://sumitsidana.github.io/data/RecSysChallenge2020.pdf">PDF</a>, <a href="https://github.com/sumitsidana/recsys_challenge_2020">Code</a>
+, <a href="https://www.youtube.com/watch?v=d-HXUadCUhA&t=4350s"> Video </a>]
 </li>
 <li> Health Monitoring on Social Media over Time<br>
 
