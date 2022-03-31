@@ -42,7 +42,7 @@ author_profile: true
 
 <ul>
 <li><p><span><strong><span class="sans-serif">“Building large scale recommender sytems leveraging implicit feedback”</span></strong></span><br />
-<span><em>Ph.D. student at Laboratoire d’’Informatique de Grenoble (LIG), under Prof. Massih-Reza Amini (2015 - 2018)</em></span></p>
+<span><em>Ph.D. student at Laboratoire d’’Informatique de Grenoble (LIG), under Prof. Massih-Reza Amini and Assoc Prof. Charlotte Laclau (2015 - 2018)</em></span></p>
 <ul>
 <li><p>Worked under the supervision of Prof. Massih-Reza Amini and Post. Doc. Charlotte Laclau in order to apply deep learning methods to improve top-k recommendations on implicit feedback</p>
 <ul>
