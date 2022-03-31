@@ -4,6 +4,9 @@ classes: wide
 permalink: /work_experience/
 author_profile: true
 ---
+<ol>
+
+<li>
 
 <ol>
 <li><p><span><strong><span class="sans-serif">“Large-scale Recommender Systems and Ranking at JustEat Takeaway.com”</span></strong></span><br />
@@ -31,8 +34,13 @@ author_profile: true
 <li><p>Tools Used: Elastic Search</p></li>
 </ul></li>
 </ul></li>
-</ul>
-<ul>
+</ol>
+
+</li>
+
+<li>
+
+<ol>
 <li><p><span><strong><span class="sans-serif">“Building large scale recommender sytems leveraging implicit feedback”</span></strong></span><br />
 <span><em>Ph.D. student at Laboratoire d’’Informatique de Grenoble (LIG), under Prof. Massih-Reza Amini (2015 - 2018)</em></span></p>
 <ul>
@@ -54,8 +62,13 @@ author_profile: true
 <li><p>Attended RecSys 2016 held in Boston and RecSys Summer School 2017 held in Bolzano</p></li>
 <li><p>Got papers accepted at A* conferences (SIGIR) and core-A journal (TKDE). More details here: <a href="https://dblp.uni-trier.de/pers/hd/s/Sidana:Sumit">dblp</a>, <a href="https://scholar.google.com/citations?user=pVWIAA0AAAAJ&amp;hl=en">Google Scholar</a></p></li>
 </ul></li>
-</ul>
-<ul>
+</ol>
+
+</li>
+
+<li>
+
+<ol>
 <li><p><span><strong><span class="sans-serif">“Mining health and nutrition information from Twitter over time”</span></strong></span><br />
 <span><em>Research Intern at Laboratoire d’’Informatique de Grenoble (LIG), under Dr. Sihem Amer-Yahia (May 2015 - October 2015)</em></span></p>
 <ul>
@@ -63,8 +76,13 @@ author_profile: true
 <li><p>Ported the data pipeline developed in the first internship onto ShareInsights, a robust data manipulation infrastructure</p></li>
 <li><p>Found general-purpose concepts like retail products and diseases inside French tweets and statistically relating them</p></li>
 </ul></li>
-</ul>
-<ul>
+</ol>
+
+</li>
+
+<li>
+
+<ol>
 <li><p><span><strong><span class="sans-serif">“Mining health and nutrition information from Twitter”</span></strong></span><br />
 <span><em>Research Intern at Laboratoire d’’Informatique de Grenoble (LIG), under Dr. Sihem Amer-Yahia (September 2014 - December 2014)</em></span></p>
 <ul>
@@ -80,8 +98,13 @@ author_profile: true
 </ul></li>
 <li><p>Project details available at http://slide-apps.imag.fr/crowdhealth/</p></li>
 </ul></li>
-</ul>
-<ul>
+</ol>
+
+</li>
+
+<li>
+
+<ol>
 <li><p><span><strong><span class="sans-serif">“Feature engineering and implementation of machine learning algorithms at Xurmo Technolgies Bangalore ”</span></strong></span><br />
 <span><em>Research Engineer at machine learning based product-based start-up Xurmo Technologies,Bangalore (June 2013- November 2013)</em></span></p>
 <ul>
@@ -90,8 +113,13 @@ author_profile: true
 <li><p>Ran the algorithms on many UCI-repository datasets.</p></li>
 <li><p>Results were at par with popular data mining tool - Weka.</p></li>
 </ul></li>
-</ul>
-<ul>
+</ol>
+
+</li>
+
+<li>
+
+<ol>
 <li><p><span><strong><span class="sans-serif">“System Engineer at Estel Technologies ”</span></strong></span><br />
 <span><em>System Engineer at Global Support Team at ESTEL TECHNOLOGIES PVT LTD Gurgaon, India (February 2009 - March 2010)</em></span></p>
 <ul>
@@ -100,8 +128,13 @@ author_profile: true
 <li><p>Configuration monitoring and troubleshooting of FTP</p></li>
 <li><p>Manage clients helpdesk for telephonic and mail Support</p></li>
 </ul></li>
-</ul>
-<ul>
+</ol>
+
+</li>
+
+<li>
+
+<ol>
 <li><p><span><strong><span class="sans-serif">“Website and application development”</span></strong></span><br />
 <span><em>Application developer at E-Ware TECHNOLOGIES PVT LTD Gurgaon, India (October 2008 - December 2008)</em></span></p>
 <ul>
@@ -109,4 +142,8 @@ author_profile: true
 <li><p>Obtained familiarity with common language run-time and just-in-time compilation</p></li>
 <li><p>Worked on MySQL on backend</p></li>
 </ul></li>
+</ol>
+
+</li>
+
 </ol>
