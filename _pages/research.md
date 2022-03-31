@@ -13,6 +13,8 @@ author_profile: true
 
 <li><a href = "https://www.cnrs.fr/mi/IMG/pdf/7-_session23-crowdhealth.compressed.pdf"> Crowdhealth </a> </li>
 
+</ul>
+
 
 <h3>Conferences</h3>
 
