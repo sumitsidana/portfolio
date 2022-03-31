@@ -11,8 +11,10 @@ author_profile: true
 
 <li>Calypso (FUI Project with Kelkoo and Purch) on online advertising (2015-2018)</li>
 
-<li><a href = "https://www.cnrs.fr/mi/IMG/pdf/7-_session23-crowdhealth.compressed.pdf"> Crowdhealth </a>
-<h3>Conferences</h3></li>
+<li><a href = "https://www.cnrs.fr/mi/IMG/pdf/7-_session23-crowdhealth.compressed.pdf"> Crowdhealth </a> </li>
+
+
+<h3>Conferences</h3>
 
 SIGIR 2016, SIGIR 2017, RECSYS 2018
 
