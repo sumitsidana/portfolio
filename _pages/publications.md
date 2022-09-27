@@ -54,6 +54,11 @@ Sidana Sumit, Shashwat Mishra, Sihem Amer-Yahia, Marianne Clausel, Massih-Reza A
 [<a href="https://sumitsidana.github.io/data/healthMonitoringOnSocialMediaOverTime.pdf">PDF</a>, <a href="https://github.com/sumitsidana/healthMonitoring">Code</a>]
 </li>
 
+<li>Inverse Propensity Score based offline estimator for deterministic ranking lists using position bias
+Nick Wood, Sumit Sidana
+[<a href="https://arxiv.org/pdf/2208.14980.pdf">PDF</a>]
+</li>
+
 </ol>
 
 ---
